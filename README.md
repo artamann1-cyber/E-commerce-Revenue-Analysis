@@ -42,3 +42,6 @@ The dashboard focuses on:
 ## Tableau Dashboard
 
 https://public.tableau.com/views/E-commerceRevenueAnalysis_17798272170020/E-commerceRevenueDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
